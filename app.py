@@ -1,7 +1,7 @@
 {
  "cells": [
   {
-   "cell_type": "code",
+  
    "execution_count": 2,
    "id": "60f42d76-c9d0-48f5-b697-358a9fc79ec2",
    "metadata": {},
@@ -17,7 +17,7 @@
      "output_type": "execute_result"
     }
    ],
-   "source": [
+   
     "import streamlit as st\n",
     "import pandas as pd\n",
     "import matplotlib.pyplot as plt\n",
@@ -104,12 +104,12 @@
    ]
   },
   {
-   "cell_type": "code",
-   "execution_count": ,
+
+  
    "id": "46578424-e2b8-464a-92e5-9fa5a3af8a96",
-   "metadata": {},
+
    "outputs": [],
-   "source": []
+
   }
  ],
  "metadata": {
