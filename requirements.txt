@@ -1,23 +1,7 @@
-{
- "cells": [
-  {
-   "cell_type": "code",
-   "execution_count": null,
-   "id": "ce565db1-f663-40c7-9bf3-61b60b9d944c",
-   "metadata": {},
-   "outputs": [],
-   "source": []
-  }
- ],
- "metadata": {
-  "kernelspec": {
-   "display_name": "",
-   "name": ""
-  },
-  "language_info": {
-   "name": ""
-  }
- },
- "nbformat": 4,
- "nbformat_minor": 5
-}
+streamlit
+pandas
+numpy
+pyreadstat
+openpyxl
+pdfplumber
+matplotlib
